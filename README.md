@@ -19,6 +19,6 @@ The rules were as usual: do not use stuff we hadn't seen in class yet. That woul
 
 ## Curator
 
-* UNIX project.
+* UNIX project
 * CMake scripts have been added
 * launcher was edited to launch one executable only
