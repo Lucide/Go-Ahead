@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.17)
 
 project(Go-Ahead
         VERSION 1
-        DESCRIPTION "a tiny particle sandbox"
+        DESCRIPTION "a tiny particle sandbox game"
         LANGUAGES C)
 
 add_executable(core 70.c)
