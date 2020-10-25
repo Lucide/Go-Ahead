@@ -15,6 +15,7 @@ The rules were as usual: do not use stuff we hadn't seen in class yet. That woul
 ## Features
 
 * completely written in [Geany](https://www.geany.org/) on a Ubuntu VM
+* screen still cleared with `system("clear")`, *ouch*!
 * first project to use a launcher, as there's no asynchronous input. The launcher also warns the use to lower the terminal font size
 
 <p align="center">
