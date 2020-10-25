@@ -1,6 +1,8 @@
 # Go Ahead
 
-![go ahead splash screen](assets/screenshot.png)
+<p align="center">
+  <img src="assets/screenshot.png">
+</p>
 
 ## What's this?
 
@@ -15,7 +17,9 @@ The rules were as usual: do not use stuff we hadn't seen in class yet. That woul
 * completely written in [Geany](https://www.geany.org/) on a Ubuntu VM
 * first project to use a launcher, as there's no asynchronous input. The launcher also warns the use to lower the terminal font size
 
-![gameplay](assets/gameplay.gif)
+<p align="center">
+  <img src="assets/gameplay.gif">
+</p>
 
 ## Curator
 
